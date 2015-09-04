@@ -1,0 +1,10 @@
+aevum
+astrum
+bos
+caelum
+corpus
+flos
+equus
+nox
+pelagus
+puer

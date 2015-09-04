@@ -1,0 +1,10 @@
+bolo
+juego
+vestimenta
+camisa
+zapatos
+ayuda
+economia
+carro
+arma
+mineral
